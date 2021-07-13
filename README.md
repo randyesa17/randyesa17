@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randyesa17
 - 👀 I’m interested in Programing World
-- 🌱 I’m currently learning HTML, PHP, Javascript
+- 🌱 I’m currently learning HTML, PHP, Javascript, Codeigniter
 - 📫 How to reach me randyesa17@gmail.com
 
 <!---
